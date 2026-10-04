@@ -1,0 +1,29 @@
+{
+  "name": "aegisflow-ai",
+  "version": "1.0.0",
+  "description": "AegisFlow AI is an AI-powered market research workspace designed for US stocks and ETFs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smir2561/aegisflow-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/smir2561/aegisflow-ai/issues"
+  },
+  "homepage": "https://github.com/smir2561/aegisflow-ai#readme",
+  "dependencies": {
+    "@bitget-ai/bitget-agent-sdk": "^3.3.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.2"
+  }
+}
